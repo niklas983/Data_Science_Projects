@@ -9,8 +9,12 @@ Web Scraping real estate websites, extracting features and saving data to files 
 
 
 *Part 2:*
-Aggregate all the gathered data and clean it for further EDA.
+Data cleaning and wrangling
 
 
 *Part 3:*
+Exploratory Data Analysis (EDA).
+
+
+*Part 4:*
 Build prediction models using various algorithms and evaluate their accuracy.
